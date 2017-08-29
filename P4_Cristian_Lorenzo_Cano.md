@@ -1,6 +1,6 @@
-#Práctica 4
+# Práctica 4
 
-###Pablo Pérez Ruiz y Cristian Lorenzo Cano
+### Pablo Pérez Ruiz y Cristian Lorenzo Cano
 
 Comprobamos el rendimiento a nuestra máquina servidora mediante el comando:
 
