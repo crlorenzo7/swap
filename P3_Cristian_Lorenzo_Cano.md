@@ -1,6 +1,6 @@
-#Práctica 2
+# Práctica 2
 
-###Pablo Pérez Ruiz y Cristian Lorenzo Cano
+### Pablo Pérez Ruiz y Cristian Lorenzo Cano
 
 Inicialmente tuvimos problemas porque no se podía instalar apache2, ya que faltaban dependencias. Al hacer un update, tampoco se actualizaba, por lo que tuvimos que editar el archivo /etc/apt/source.list mediante nano, y añadir tres direcciones:
 
