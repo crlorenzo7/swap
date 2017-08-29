@@ -1,6 +1,6 @@
-#Práctica 5
+# Práctica 5
 
-###Pablo Pérez Ruiz y Cristian Lorenzo Cano
+### Pablo Pérez Ruiz y Cristian Lorenzo Cano
 
 Hemos creado la BD, hemos creado la tabla contactos, y le hemos insertado una tupla.
 Además hemos guardado una copia de seguridad en la carpeta /tmp/ en lugar de la de /root/ ya que esta última nos daba problemas de permisos. Ahora nos hemos ido a la máquina servidora 2 (gallina2) y hemos copiado el archivo como se muestra a continuación:
